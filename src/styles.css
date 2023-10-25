@@ -1,0 +1,19 @@
+:root {
+  --main-bg-color: brown;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.slider {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: var(--main-bg-color);
+  height: 50vh;
+  display: flex;
+}
